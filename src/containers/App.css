@@ -1,0 +1,12 @@
+@font-face{
+	font-family:'Times New Roman';
+	font-style: normal;
+	font-weight: normal;
+}
+
+h1{
+	font-family:'Times New Roman';
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1000px;
+}
